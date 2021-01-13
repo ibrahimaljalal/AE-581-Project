@@ -1,0 +1,9 @@
+1-The AE581.exe file is not included because it is about 300 MB so blackboard was not able to upload it. However, you can download it from the URL/QR-code in the AE581.pdf or AE581.pptx files and there is also a picture for the QR-code.
+
+2-The AE581.exe file will most likely not work unless you disable the antivirus . Of course, since I have made the file it is not harmful.
+
+3-In the video recording there is a lot of lagging that is maybe because of the software I used for recording, but the program itself did not lag that much.
+
+4-Most likely the script in the blender File (AE581.blende) will not work even if Blender was downloaded because the python code for the project needs to be added as an addon in blender
+
+5-Most of the details of the project are in two files. 1- the code is in (AE581.py) and 2-the theory is in the pdf file report (AE581.pdf). (Note the presentation does not deg very deep in the details)
